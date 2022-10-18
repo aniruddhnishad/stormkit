@@ -1,0 +1,12 @@
+{
+  "name": "nodeexpress",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2"
+  }
+}
